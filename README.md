@@ -1,4 +1,4 @@
-This is the initial stage of a student project to build a clone of the AirBnB website.Itimplements a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
+This is the initial stage of a student project to build a clone of the AirBnB website.It creates a console, to manage program data. The consol,through commands, allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.
 
 Project Tasks
 Tasks	Files	Description
