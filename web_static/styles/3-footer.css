@@ -1,6 +1,7 @@
 footer {
-	color white;
+	background-color: white;
 	height: 60px;
+	color: #484848;
 	width: 100%;
 	border-top 1px #CCCCCC;
 	position: fixed;
@@ -9,4 +10,8 @@ footer {
 	display: flex;
 	align-items: center;
 	justify-content: center;
+}
+p {
+	text-align: center;
+	vertical-align: middle;
 }
